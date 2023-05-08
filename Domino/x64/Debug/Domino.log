@@ -1,0 +1,5 @@
+﻿  Domino.cpp
+C:\Users\Usuario\Desktop\progra ina\Computacion estructurada\Proyecto Derick Gutierrez Face 2\Derick_Gutierrez_Domino_Fase2\Domino\Domino.cpp(8,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\progra ina\Computacion estructurada\Proyecto Derick Gutierrez Face 2\Derick_Gutierrez_Domino_Fase2\Domino\Domino.cpp(9,6): warning C4101: 'aleatorio': variable local sin referencia
+C:\Users\Usuario\Desktop\progra ina\Computacion estructurada\Proyecto Derick Gutierrez Face 2\Derick_Gutierrez_Domino_Fase2\Domino\FuncionesDomino.h(148): warning C4715: 'laMula': no todas las rutas de acceso de control devuelven un valor
+  Domino.vcxproj -> C:\Users\Usuario\Desktop\progra ina\Computacion estructurada\Proyecto Derick Gutierrez Face 2\Derick_Gutierrez_Domino_Fase2\x64\Debug\Domino.exe
